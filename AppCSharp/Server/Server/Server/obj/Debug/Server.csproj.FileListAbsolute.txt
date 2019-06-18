@@ -1,0 +1,30 @@
+C:\Users\Монгол\Desktop\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Монгол\Desktop\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Монгол\Desktop\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Монгол\Desktop\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Монгол\Desktop\Server\Server\Server\obj\Debug\Server.pdb
+I:\Neuro MP\Server\Server\Server\bin\Debug\Server.exe.config
+I:\Neuro MP\Server\Server\Server\bin\Debug\Server.exe
+I:\Neuro MP\Server\Server\Server\bin\Debug\Server.pdb
+I:\Neuro MP\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+I:\Neuro MP\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+I:\Neuro MP\Server\Server\Server\obj\Debug\Server.exe
+I:\Neuro MP\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\Монгол\Desktop\AppCSharp\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Монгол\Desktop\AppCSharp\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Монгол\Desktop\AppCSharp\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Монгол\Desktop\AppCSharp\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\AppCSharp\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\AppCSharp\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Монгол\Desktop\AppCSharp\Server\Server\Server\obj\Debug\Server.pdb
+E:\Projects\AppCSharp\Server\Server\Server\bin\Debug\Server.exe.config
+E:\Projects\AppCSharp\Server\Server\Server\bin\Debug\Server.exe
+E:\Projects\AppCSharp\Server\Server\Server\bin\Debug\Server.pdb
+E:\Projects\AppCSharp\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Projects\AppCSharp\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Projects\AppCSharp\Server\Server\Server\obj\Debug\Server.exe
+E:\Projects\AppCSharp\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\Михаил\Desktop\AppCSharp\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Михаил\Desktop\AppCSharp\Server\Server\Server\obj\Debug\Server.pdb
