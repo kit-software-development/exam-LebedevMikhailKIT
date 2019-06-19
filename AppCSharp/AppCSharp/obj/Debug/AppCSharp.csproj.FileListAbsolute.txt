@@ -1,0 +1,39 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Form1.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.cache
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
+C:\Users\Монгол\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.GameForm.resources
+E:\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+E:\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+E:\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+E:\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csprojAssemblyReference.cache
+E:\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.GameForm.resources
+E:\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+E:\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.cache
+E:\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.CoreCompileInputs.cache
+E:\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+E:\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.GameForm.resources
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+C:\Users\Михаил\Desktop\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
